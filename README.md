@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### ---------------------------------------------------------------------------------------------------------------------
-### 🛠️MY Stack🛠️
+### 🛠️My Stack🛠️
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beargame123)](https://github.com/beargame123/github-readme-stats)
