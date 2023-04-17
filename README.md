@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=230&section=header&text=Slowly%20But%20Accurately&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=230&section=header&text=Slowly%20But%20Accurately&fontSize=50)
 
 <div align="center">
   
@@ -24,7 +24,7 @@
   <div>
       <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"> 
       <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"> 
-      <img src="https://img.shields.io/badge/MongoDB-brightgreen?style=flat&logo=MongoDB&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-009639?style=flat&logo=MongoDB&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> 
   </div> 
   <br/>
