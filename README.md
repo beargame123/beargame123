@@ -2,6 +2,7 @@
 
 <div align="center">
   
+[![beargame123's GitHub stats](https://github-readme-stats.vercel.app/api?username=beargame123&theme=ayu-mirage&show_icons=true)](https://github.com/beargame123/github-readme-stats)
   
   <h2>🖥️Stack</h2>
     <div>
@@ -31,5 +32,3 @@
 
 [![Solved.ac
 beargame123](http://mazassumnida.wtf/api/v2/generate_badge?boj=beargame123)](https://solved.ac/beargame123})
-
-[![beargame123's GitHub stats](https://github-readme-stats.vercel.app/api?username=beargame123&theme=ayu-mirage&show_icons=true)](https://github.com/beargame123/github-readme-stats)
