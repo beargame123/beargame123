@@ -31,4 +31,4 @@
   <br/>
 
 [![Solved.ac
-beargame123](http://mazassumnida.wtf/api/v2/generate_badge?boj=beargame123)](https://solved.ac/beargame123})
+beargame](http://mazassumnida.wtf/api/v2/generate_badge?boj=beargame)](https://solved.ac/beargame})
