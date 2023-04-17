@@ -33,6 +33,3 @@
 beargame123](http://mazassumnida.wtf/api/v2/generate_badge?boj=beargame123)](https://solved.ac/beargame123})
 
 [![beargame123's GitHub stats](https://github-readme-stats.vercel.app/api?username=beargame123&theme=ayu-mirage&show_icons=true)](https://github.com/beargame123/github-readme-stats)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=beargame123&theme=chalk&row=1&column=7&margin-w=5)
-</div>
