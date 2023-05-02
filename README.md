@@ -29,6 +29,3 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> 
   </div> 
   <br/>
-
-[![Solved.ac
-beargame](http://mazassumnida.wtf/api/v2/generate_badge?boj=beargame)](https://solved.ac/beargame})
