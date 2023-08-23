@@ -27,6 +27,6 @@
       <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"> 
       <img src="https://img.shields.io/badge/MongoDB-009639?style=flat&logo=MongoDB&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> 
-      <img src="https://img.shields.io/badge/Rust-#000000?style=flat&logo=rust&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"> 
   </div> 
   <br/>
