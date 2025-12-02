@@ -2,8 +2,6 @@
 
 <div align="center">
   
-[![beargame123's GitHub stats](https://github-readme-stats.vercel.app/api?username=beargame123&theme=ayu-mirage&show_icons=true)](https://github.com/beargame123/github-readme-stats)
-  
   <h2>🖥️Stack</h2>
     <div>
       <img src="https://img.shields.io/badge/c-00599C?style=flat&logo=c%2B%2B&logoColor=white">
